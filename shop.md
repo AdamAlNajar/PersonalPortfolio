@@ -7,12 +7,19 @@ permalink: /shop/
 # Shop
 
 ## Untitled Zombie Game
+This Game is currently a work in progress, So There is no preview yet.
 
-[Game Preview](https://th.bing.com/th/id/R.6c19d20ea755426dc4aa93d6d2a26509?rik=KuoAeVzSOgGWyQ&pid=ImgRaw&r=0)
-
-A Game where you can shoot endless waves of zombies, You can currently Play 3 levels. But i hope to change this with updates
+### Brief Description
+A fast-paced shooter where you battle endless waves of zombies across diverse environments, with dynamic challenges and upgrades to keep the action intense.
 
 ### Purchase
-
 If you want to purchase the game, Contact me!
-Price: 10$ (United States)
+
+### Leave a Review
+If you want to leave a Review to be displayed here, Contact me!
+
+### Details:
+- **Price**: 10$ (United States)
+- **Supported Platforms**: Windows, Linux and Android.
+
+(These are the only details that i can confirm, the rest will be put out on the release of the game).
