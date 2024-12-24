@@ -19,4 +19,4 @@ permalink: /projects/
 
 ---
 
-These are just a few examples of the projects I've worked on. Feel free to explore them and reach out if you want to know more!
+These are the Open-Source projects that i have created, There are more Paid Games/Websites that i cannot display. Thank you for your understanding.
