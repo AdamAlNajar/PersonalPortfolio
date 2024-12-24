@@ -9,7 +9,7 @@ I've worked with various technologies such as Godot, HaxeFlixel and Unity.
 
 Here are a few things you might want to know about me:
 - **Education**: I have almost finished high school in the 9th grade
-- **Experience**: I have Almost 5 Years of Experience in making Games
+- **Experience**: I have Almost 5 Years of Experience in making Games and 2 years in frontend website development
 - **Age**: I Am 14 Years old as of 23rd of December 2024
 - **Nationality**: I am Jordanian/Palestinan
 ---
