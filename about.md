@@ -5,7 +5,7 @@ permalink: /about/
 ---
 # About me
 Hello! I'm Adam, a Game Developer based in UAE. I specialize in Unity and have a passion for Computers and robotics. 
-I've worked with various technologies such as Godot, HaxeFlixel, Unity and more  and I love solving problems.
+I've worked with various technologies such as Godot, HaxeFlixel and Unity.
 
 Here are a few things you might want to know about me:
 - **Education**: I have almost finished high school in the 9th grade
