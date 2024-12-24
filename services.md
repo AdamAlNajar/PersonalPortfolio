@@ -21,4 +21,5 @@ I offer frontend development that makes your website visually appealing and user
 - **Performance Optimization**: Ensuring fast loading times and smooth user interactions.
 - **SEO Optimization**: Helping your website rank better on search engines.
 
+---
 For Inquiry, Please Contact me
