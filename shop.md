@@ -7,6 +7,10 @@ permalink: /shop/
 # Shop
 
 ## Untitled Zombie Game
+<details>
+  <summary>Click to find out about this game.</summary>
+
+
 This Game is currently a work in progress, So There is no preview yet.
 
 ### Brief Description
@@ -22,4 +26,5 @@ If you want to leave a Review to be displayed here, Contact me!
 - **Price**: 10$ (United States)
 - **Supported Platforms**: Windows, Linux and Android.
 
-(These are the only details that i can confirm, the rest will be put out on the release of the game).
+(These are the only details that i can confirm, the rest will be put out on the release of the game). 
+</details>
