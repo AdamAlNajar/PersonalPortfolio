@@ -23,7 +23,7 @@ If you want to purchase the game, Contact me!
 If you want to leave a Review to be displayed here, Contact me!
 
 ### Details:
-- **Price**: 10$ (United States)
+- **Price**: 5$ * (United States)
 - **Supported Platforms**: Windows, Linux and Android.
 
 (These are the only details that i can confirm, the rest will be put out on the release of the game). 
