@@ -10,7 +10,7 @@ I would love to hear from you! Feel free to reach out to me via the following:
 
 - **Email**: [adam.alnajar@yahoo.com](mailto:adam.alnajar@yahoo.com)
 - **WhatsApp**: [WhatsApp](https://wa.me/971502710802)
-- **GitHub**: [GitHub Profile](https://github.com/AdamAlNajar)
+- **Discord**: @adamoolah
 
 If you have any inquiries, project opportunities, or just want to connect, don't hesitate to get in touch.
 
