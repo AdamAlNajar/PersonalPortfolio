@@ -61,6 +61,6 @@ permalink: /shop/
 If you’re interested in purchasing either of these games, or would like more information, please don't hesitate to reach out! You can contact me directly through the links provided in each game’s section.
 
 ### Follow the Development:
-Stay updated on development progress by [Joining my discord server]("https://discord.gg/96GHRVKj2F")
+Stay updated on development progress by [Joining my discord server](https://discord.gg/96GHRVKj2F)
 
 ---
