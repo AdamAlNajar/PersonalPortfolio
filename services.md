@@ -4,6 +4,8 @@ title: Services
 permalink: /services/
 ---
 
+# My Services
+
 ## Game Creation
 I can bring your ideas to life with custom-built games that captivate and engage. From mobile games to VR experiences, I ensure that your game is not only fun but functional. My game development services include:
 
