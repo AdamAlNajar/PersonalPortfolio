@@ -11,23 +11,26 @@ permalink: /shop/
 <details>
   <summary>Click to learn more about this game.</summary>
 
-  **Status**: Alpha build Currently in progress. No preview available yet.
+  **Status**: Alpha build Currently is Available
 
   ### Brief Description
   A fast-paced shooter where you battle endless waves of zombies across diverse environments. The game features dynamic challenges and upgrades that keep the action intense.
 
-  ### Purchase
-  Want to get the game as soon as it's released? [Contact me](/contact/) for details on how to purchase!
+  ### Download 
+  - **Windows**: Mega - https://mega.nz/file/o2VDHS4J#G9sqv8tGQq7r9dlmhjmsbbE-LGmndZyr-nOKbngSDqI
+  - **Linux**: Mega - NA, Tommorow i will have a linux build
 
   ### Leave a Review
   Played the game? [Contact me](/contact/) if you'd like to leave a review to be featured here!
 
   ### Details:
-  - **Price**: $5 USD
-  - **Supported Platforms**: Windows, Linux, Android.
-  - **Release Date**: TBA
+  - **Price**: Free, until 11 Sept 2024
+  - **Supported Platforms**: Windows, Linux, Only on the first release build - Android.
 
-  *(Please note that these are the only details confirmed for now, with more to be revealed at launch.)*
+  ### Notes:
+  - The game currently has 1 known bug, where you cannot pick up an ammo box, So, this will be fixed On the Beta Build [The Next one]
+  - if you notice another bug please contact me on discord: @adamoolah or send me an email: adam.alnajar@yahoo.com
+
 </details>
 
 ---
