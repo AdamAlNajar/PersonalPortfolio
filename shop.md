@@ -20,15 +20,17 @@ permalink: /shop/
   - **Windows**: Mega - https://mega.nz/file/o2VDHS4J#G9sqv8tGQq7r9dlmhjmsbbE-LGmndZyr-nOKbngSDqI
   - **Linux**: Mega - NA, Tommorow i will have a linux build
 
-  ### Leave a Review
+  ### Leave a Review - Alpha Build [ONLY].
   Played the game? [Contact me](/contact/) if you'd like to leave a review to be featured here!
 
   ### Details:
   - **Price**: Free, until 11 Sept 2024
-  - **Supported Platforms**: Windows, Linux, Only on the first release build - Android.
+  - **Supported Platforms**: Windows, Linux, Only on the 1.0.0 Version - Android.
 
   ### Notes:
   - The game currently has 1 known bug, where you cannot pick up an ammo box, So, this will be fixed On the Beta Build [The Next one]
+  - In the beta build there will be Better UI.
+  - Basically, Everything in this version is complete shit. Beta Will be an improvment, and 1.0.0 will be THE TOP.
   - if you notice another bug please contact me on discord: @adamoolah or send me an email: adam.alnajar@yahoo.com
 
 </details>
