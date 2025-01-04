@@ -7,11 +7,11 @@ permalink: /shop/
 
 ## Games
 
-### 1. **Untitled Zombie Game**
+### 1. **Untitled Shooter Game**
 <details>
   <summary>Click to learn more about this game.</summary>
 
-  **Status**: Work in progress. No preview available yet.
+  **Status**: Alpha build Currently in progress. No preview available yet.
 
   ### Brief Description
   A fast-paced shooter where you battle endless waves of zombies across diverse environments. The game features dynamic challenges and upgrades that keep the action intense.
@@ -61,6 +61,6 @@ permalink: /shop/
 If you’re interested in purchasing either of these games, or would like more information, please don't hesitate to reach out! You can contact me directly through the links provided in each game’s section.
 
 ### Follow the Development:
-Stay updated on development progress by [Joining my discord server](https://discord.gg/96GHRVKj2F)
+Stay updated on development progress by [Subscribing to my YT channel](https://youtube.com/@adamoolah)
 
 ---
