@@ -16,16 +16,21 @@ permalink: /shop/
   ### Brief Description
   A fast-paced shooter where you battle endless waves of zombies across diverse environments. The game features dynamic challenges and upgrades that keep the action intense.
 
-  ### Download 
+  ### Download Alpha Version
   - **Windows**: Mega - https://mega.nz/file/o2VDHS4J#G9sqv8tGQq7r9dlmhjmsbbE-LGmndZyr-nOKbngSDqI
-  - **Linux**: Mega - NA [On Beta]
+  - **Linux**: Mega - NA [On 1.0]
 
   ### Leave a Review - Alpha Build [ONLY].
   Played the game? [Contact me](/contact/) if you'd like to leave a review to be featured here!
 
+  ### Preorder 1.0 
+  - 1.0 costs 5 USD
+  - [To Preorder with either paypal or Debit/Credit card, press this](https://www.paypal.com/ncp/payment/GBXC7B3SHEYMG)
+  - After payment, Please fill the following form : [Click Here](https://forms.gle/nB8BsYAY25TkF5qS8)
+
   ### Details:
   - **Price**: Free, until 11 Sept 2024
-  - **Supported Platforms**: Windows, Linux, Only on the 1.0.0 Version - Android.
+  - **Supported Platforms**: Windows, On Beta Version - Linux, Only on the 1.0.0 Version - Android.
 
   ### Notes:
   - The game currently has 1 known bug, where you cannot pick up an ammo box, So, this will be fixed On the Beta Build [The Next one]
@@ -47,15 +52,14 @@ permalink: /shop/
   A quirky, fun game where you can play with and annoy cats—because, why not? It’s a silly, stress-free experience that’s all about having fun with your feline friends.
 
   ### Purchase
-  Want to play when it launches? [Contact me](/contact/) to reserve your copy!
+  Not available Yet.
 
   ### Leave a Review
   Loved the game? [Contact me](/contact/) to leave your review, and it might appear here!
 
   ### Details:
-  - **Price**: $5 USD
+  - **Price**: NA YET.
   - **Supported Platforms**: Windows, Linux.
-  - **Release Date**: TBA
 
   *(Details are subject to change upon release. More information to come soon!)*
 </details>
@@ -63,7 +67,7 @@ permalink: /shop/
 ---
 
 ### How to Purchase:
-If you’re interested in purchasing either of these games, or would like more information, please don't hesitate to reach out! You can contact me directly through the links provided in each game’s section.
+If you’re interested in purchasing either of these games, follow the links provided in each game’s section.
 
 ### Follow the Development:
 Stay updated on development progress by [Subscribing to my YT channel](https://youtube.com/@adamoolah)
