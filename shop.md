@@ -18,7 +18,7 @@ permalink: /shop/
 
   ### Download 
   - **Windows**: Mega - https://mega.nz/file/o2VDHS4J#G9sqv8tGQq7r9dlmhjmsbbE-LGmndZyr-nOKbngSDqI
-  - **Linux**: Mega - NA, Tommorow i will have a linux build
+  - **Linux**: Mega - NA [On Beta]
 
   ### Leave a Review - Alpha Build [ONLY].
   Played the game? [Contact me](/contact/) if you'd like to leave a review to be featured here!
