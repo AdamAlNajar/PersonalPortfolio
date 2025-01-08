@@ -26,6 +26,7 @@ permalink: /shop/
   ### Preorder 1.0 
   - 1.0 costs 5 USD
   - [To Preorder with either paypal or Debit/Credit card, press this](https://www.paypal.com/ncp/payment/GBXC7B3SHEYMG)
+  - [To Preoder with Crypto, follow the following instructions](https://pastebin.com/RUcvHM12)
   - After payment, Please fill the following form : [Click Here](https://forms.gle/nB8BsYAY25TkF5qS8)
 
   ### Details:
