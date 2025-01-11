@@ -11,14 +11,15 @@ permalink: /shop/
 <details>
   <summary>Click to learn more about this game.</summary>
 
-  **Status**: Alpha build Currently is Available
+  **Status**: Beta Build in Development
 
   ### Brief Description
   A fast-paced shooter where you battle endless waves of zombies across diverse environments. The game features dynamic challenges and upgrades that keep the action intense.
 
   ### Download Alpha Version
   - **Windows**: Mega - https://mega.nz/file/o2VDHS4J#G9sqv8tGQq7r9dlmhjmsbbE-LGmndZyr-nOKbngSDqI
-  - **Linux**: Mega - NA [On 1.0]
+  - **Linux**: Mega - NA
+  - **Android**: Mega - NA
 
   ### Leave a Review - Alpha Build [ONLY].
   Played the game? [Contact me](/contact/) if you'd like to leave a review to be featured here!
@@ -30,7 +31,7 @@ permalink: /shop/
   - After payment, Please fill the following form : [Click Here](https://forms.gle/nB8BsYAY25TkF5qS8)
 
   ### Details:
-  - **Price**: Free, until 11 Sept 2024
+  - **Price**: Free, until 1.0 releases
   - **Supported Platforms**: Windows, On Beta Version - Linux, Only on the 1.0.0 Version - Android.
 
   ### Notes:
@@ -47,7 +48,7 @@ permalink: /shop/
 <details>
   <summary>Click to learn more about this game.</summary>
 
-  **Status**: Work in progress. No preview available yet.
+  **Status**: 1 Full Game, Work in Progress
 
   ### Brief Description
   A quirky, fun game where you can play with and annoy cats—because, why not? It’s a silly, stress-free experience that’s all about having fun with your feline friends.
@@ -59,7 +60,7 @@ permalink: /shop/
   Loved the game? [Contact me](/contact/) to leave your review, and it might appear here!
 
   ### Details:
-  - **Price**: NA YET.
+  - **Price**: NA 
   - **Supported Platforms**: Windows, Linux.
 
   *(Details are subject to change upon release. More information to come soon!)*
