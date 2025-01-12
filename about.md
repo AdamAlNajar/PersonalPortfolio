@@ -63,4 +63,10 @@ Programming Language : C++
 - **Experience**: 2020-Present
 - **Level**: Newbie
 
+---
+Programming Language : Python
+
+- **Experience**: 2020-Present
+- **Level**: Advanced
+
 You can find more about my work on [GitHub](https://github.com/AdamAlNajar).
