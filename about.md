@@ -7,6 +7,8 @@ permalink: /about/
 Hello! I'm Adam, a Game Developer based in UAE. I specialize in Unity and have a passion for Computers and robotics. 
 I've worked with various technologies such as Godot, HaxeFlixel and Unity.
 
+I sell my games and assets on itch.io, click [here](https://adamalnajar.itch.io) to visit my page
+
 Here are a few things you might want to know about me:
 - **Education**: I have almost finished high school in the 9th grade
 - **Experience**: I have Almost 5 Years of Experience in making Games and 2 years in frontend website development
