@@ -21,7 +21,17 @@ I offer frontend development that makes your website visually appealing and user
 - **UI/UX Design**: Creating intuitive user interfaces with an emphasis on user experience.
 - **Responsive Design**: Websites that work on all devices and screen sizes.
 - **Performance Optimization**: Ensuring fast loading times and smooth user interactions.
-- **SEO Optimization**: Helping your website rank better on search engines.
+- **SEO Optimization**: Helping your website rank better on search engines.\
+
+## PCB Design
+I provide **custom PCB design services** to help bring your electronic projects to life. Whether you're developing a prototype or a full-scale production board, I ensure **optimized, efficient, and well-routed** designs tailored to your needs. My PCB design services include:
+
+- **Schematic Design**: Creating clear, well-structured circuit diagrams.  
+- **PCB Layout**: Optimizing board layout for performance, reliability, and manufacturability.  
+- **Component Selection**: Choosing the best components for cost, efficiency, and availability.  
+- **Prototyping & Testing**: Verifying designs before full-scale production.  
+- **Manufacturing Support**: Assisting with PCB fabrication and assembly.  
+
 
 ---
 For Inquiry, Please Contact me
