@@ -9,8 +9,7 @@ permalink: /contact/
 I would love to hear from you! Feel free to reach out to me via the following:
 
 - **Email**: [adam.alnajar@yahoo.com](mailto:adam.alnajar@yahoo.com)
-- **WhatsApp**: [WhatsApp](https://wa.me/971502710802)
-- **Discord**: @adamoolah
+- **WhatsApp**: [Click Me!](https://wa.me/971502710802) or type in : +971502710802
 
 If you have any inquiries, project opportunities, or just want to connect, don't hesitate to get in touch.
 
