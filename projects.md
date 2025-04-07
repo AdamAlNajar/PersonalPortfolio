@@ -11,6 +11,12 @@ permalink: /projects/
 - **Technologies**: HaxeFlixel, Osmo.
 - **Link**: [Project Website](https://github.com/AdamAlNajar/cats)
 
+## [APaint](https://github.com/AdamAlNajar/APaint)
+
+- **Description**: A Painting app like Krita.
+- **Technologies**: Java, Java Swing.
+- **Link**: [Project Website](https://github.com/AdamAlNajar/APaint)
+
 ## [Screen/Audio Recorder](https://github.com/AdamAlNajar/HIRecorder)
 
 - **Description**: A Simple Screen and audio Recorder (Not longer supported).
