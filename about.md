@@ -8,7 +8,7 @@ permalink: /about/
 
 Subscribe to my channel on YouTube if you want :)
 
-<iframe height="80px" width="350px" frameborder="0" src="https://livecounts.io/embed/youtube-live-subscriber-counter/UCH_CmSlMgXpPpD2WhwrCwgw" style="border: 0; width:350px; height:80px; margin-bottom: 20px;"/>
+<iframe height="80px" width="350px" frameborder="0" src="https://livecounts.io/embed/youtube-live-subscriber-counter/UCH_CmSlMgXpPpD2WhwrCwgw" style="border: 0; width:350px; height:80px;"/>
 
 Hello! I'm Adam, a Game Developer based in UAE. I specialize in Unity and have a passion for computers and robotics.  
 I've worked with various technologies such as Unity, Godot, and HaxeFlixel.
