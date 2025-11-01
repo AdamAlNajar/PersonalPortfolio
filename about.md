@@ -6,15 +6,20 @@ permalink: /about/
 
 # About Me
 
+Subscribe to my channel on YouTube if you want :)
+
+
+<iframe height="80px" width="300px" frameborder="0" src="https://livecounts.io/embed/youtube-live-subscriber-counter/UCH_CmSlMgXpPpD2WhwrCwgw" style="border: 0; width:300px; height:80px;"></iframe>
+
 Hello! I'm Adam, a Game Developer based in UAE. I specialize in Unity and have a passion for computers and robotics.  
 I've worked with various technologies such as Unity, Godot, and HaxeFlixel.
 
 I sell my games and assets on itch.io. Click [here](https://adamalnajar.itch.io) to visit my page.
 
 ## About Me:
-- **Education**: Almost finished high school (currently in 9th grade)
+- **Education**: Almost finished high school (currently in 10th grade)
 - **Experience**: Nearly 5 years of game development, 2 years of frontend web development
-- **Age**: 14 (as of December 23, 2024)
+- **Age**: 15 years old (as of November 1, 2025)
 - **Nationality**: Jordanian/Palestinian
 
 ---
@@ -71,6 +76,7 @@ I sell my games and assets on itch.io. Click [here](https://adamalnajar.itch.io)
 - **Level**: Newbie  
 
 </details>
+
 
 ---
 
