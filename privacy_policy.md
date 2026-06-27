@@ -1,3 +1,9 @@
+---
+layout: layout.njk
+title: Privacy policy
+permalink: /privacy-policy/
+---
+
 # Privacy Policy for Adam Al Najar Apps
 
 **Last updated:** 27 June 2026
