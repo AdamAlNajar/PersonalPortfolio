@@ -17,8 +17,8 @@ I sell my games and assets on itch.io. Click [here](https://adamalnajar.itch.io)
 
 ## About Me:
 - **Education**: Almost finished high school (currently in 10th grade)
-- **Experience**: Nearly 5 years of game development, 2 years of frontend web development
-- **Age**: 15 years old (as of November 1, 2025)
+- **Experience**: Nearly 7 years of game development, 4 years of frontend web development
+- **Age**: 15 years old (as of June 30 2026)
 - **Nationality**: Jordanian/Palestinian
 
 ---
@@ -68,11 +68,11 @@ I sell my games and assets on itch.io. Click [here](https://adamalnajar.itch.io)
 
 ### Haxe
 - **Experience**: 2020-Present  
-- **Level**: Newbie  
+- **Level**: Skilled  
 
 ### C++
 - **Experience**: 2020-Present  
-- **Level**: Newbie  
+- **Level**: Kind Of Skilled
 
 </details>
 

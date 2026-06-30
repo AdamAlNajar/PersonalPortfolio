@@ -7,9 +7,9 @@ permalink: /projects/
 
 ## [Cats](https://github.com/AdamAlNajar/cats)
 
-- **Description**: A Short game about cats (Work in progress).
+- **Description**: A Short game about cats.
 - **Technologies**: HaxeFlixel, Osmo.
-- **Link**: [Project Website](https://github.com/AdamAlNajar/cats)
+- **Link**: [Project Website](https://adamalnajar.itch.io/cats)
 
 ## [APaint](https://github.com/AdamAlNajar/APaint)
 
@@ -22,6 +22,7 @@ permalink: /projects/
 - **Description**: A Simple Screen and audio Recorder (Not longer supported).
 - **Technologies**: HTML,CSS,JS .
 - **Link**: [Project Website](https://github.com/AdamAlNajar/HIRecorder)
+
 
 ---
 

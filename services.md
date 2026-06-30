@@ -30,7 +30,16 @@ I provide **custom PCB design services** to help bring your electronic projects 
 - **PCB Layout**: Optimizing board layout for performance, reliability, and manufacturability.  
 - **Component Selection**: Choosing the best components for cost, efficiency, and availability.  
 - **Prototyping & Testing**: Verifying designs before full-scale production.  
-- **Manufacturing Support**: Assisting with PCB fabrication and assembly.  
+- **Manufacturing Support**: Assisting with PCB fabrication and assembly
+
+## Game Creation
+I can bring your ideas to life with custom-built games that captivate and engage. From mobile games to VR experiences, I ensure that your game is not only fun but functional. My game development services include:
+
+- **Game Design**: Tailored concepts that match your vision.
+- **Game Development**: Creating interactive, scalable, and dynamic games.
+- **Art & Animation**: High-quality visuals and animations for an immersive experience.
+- **Testing & QA**: Thorough testing to ensure smooth performance.
+- **Launch & Support**: Seamless launch with post-launch support.
 
 
 ---
