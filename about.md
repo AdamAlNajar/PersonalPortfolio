@@ -2,81 +2,100 @@
 layout: layout.njk
 title: About Me
 permalink: /about/
+description: About Adam Al Najar — a 15-year-old game developer from the UAE with 7+ years of experience.
 ---
+<div class="container">
+  <p class="section-kicker">// About</p>
+  <h1>About Me</h1>
 
-# About Me
+  <p>Hello! I'm Adam, a game developer based in the UAE. I specialise in Unity and I'm into computers and robotics. I work across Unity, Godot, and HaxeFlixel — and I sell my games and assets on <a href="https://adamalnajar.itch.io">itch.io</a>.</p>
 
-Subscribe to my channel on YouTube if you want :)
+  <ul class="facts">
+    <li><strong>Education</strong>Almost done with high school — currently in 10th grade</li>
+    <li><strong>Experience</strong>~7 years of game dev, 4 years of frontend web dev</li>
+    <li><strong>Age</strong>15 (as of June 2026)</li>
+    <li><strong>Nationality</strong>Jordanian / Palestinian</li>
+  </ul>
 
-<iframe height="80px" width="400px" frameborder="0" src="https://livecounts.io/embed/youtube-live-subscriber-counter/UCH_CmSlMgXpPpD2WhwrCwgw" style="border: 0; width:400px; height:80px; margin-bottom:20px;"></iframe>
+  <h2><span class="hash">#</span>What I work with</h2>
 
-Hello! I'm Adam, a Game Developer based in UAE. I specialize in Unity and have a passion for computers and robotics.  
-I've worked with various technologies such as Unity, Godot, and HaxeFlixel.
-
-I sell my games and assets on itch.io. Click [here](https://adamalnajar.itch.io) to visit my page.
-
-## About Me:
-- **Education**: Almost finished high school (currently in 10th grade)
-- **Experience**: Nearly 7 years of game development, 4 years of frontend web development
-- **Age**: 15 years old (as of June 30 2026)
-- **Nationality**: Jordanian/Palestinian
-
----
-
-<details>
-  <summary><strong>🎮 Game Development Experience</strong></summary>
+  <details class="acc" open>
+    <summary>Game engines &amp; experience</summary>
+    <div class="acc-body">
 
 ### Unity
-- **Experience**: 2017-Present  
-- **Games Published**: 4 commercial titles, 30 other projects (unpublished)  
-- **Level**: Very Skilled  
+- **Experience**: 2017 – present
+- **Games published**: 4 commercial titles, 30+ other projects (unpublished)
+- **Level**: Very skilled
 
 ### Godot
-- **Experience**: 2023-Present  
-- **Games Published**: None yet (still learning)  
-- **Level**: Newbie  
+- **Experience**: 2023 – present
+- **Games published**: None yet (still learning)
+- **Level**: Newbie
 
 ### HaxeFlixel
-- **Experience**: 2020-Present  
-- **Games Published**: 1 - *Cats* (currently in active development)  
-- **Level**: Novice  
+- **Experience**: 2020 – present
+- **Games published**: 1 — *Cats* (currently in active development)
+- **Level**: Novice
 
 ### Pygame
-- **Experience**: 2021-Present  
-- **Games Published**: 0  
-- **Level**: Novice  
+- **Experience**: 2021 – present
+- **Games published**: 0
+- **Level**: Novice
 
 ### Ursina
-- **Experience**: 2023-Present  
-- **Games Published**: 0  
-- **Level**: Newbie  
+- **Experience**: 2023 – present
+- **Games published**: 0
+- **Level**: Newbie
+</div>
+  </details>
 
-</details>
-
----
-
-<details>
-  <summary><strong>💻 Programming Languages</strong></summary>
+  <details class="acc">
+    <summary>Programming languages</summary>
+    <div class="acc-body">
 
 ### C#
-- **Experience**: 2017-Present  
-- **Level**: Very Skilled  
+- **Experience**: 2017 – present
+- **Level**: Very skilled
 
 ### Python
-- **Experience**: 2020-Present  
-- **Level**: Advanced  
+- **Experience**: 2020 – present
+- **Level**: Advanced
 
 ### Haxe
-- **Experience**: 2020-Present  
-- **Level**: Skilled  
+- **Experience**: 2020 – present
+- **Level**: Skilled
 
 ### C++
-- **Experience**: 2020-Present  
-- **Level**: Kind Of Skilled
+- **Experience**: 2020 – present
+- **Level**: Getting there
+</div>
+  </details>
 
-</details>
+  <h2><span class="hash">#</span>Around the web</h2>
 
-
----
-
-You can find more about my work on [GitHub](https://github.com/AdamAlNajar).
+  <div class="grid">
+    <div class="card">
+      <p class="card-icon">// itch.io</p>
+      <h3>Games &amp; assets</h3>
+      <p>All my published games and asset packs, including <em>Cats</em>.</p>
+      <div class="card-links">
+        <a href="https://adamalnajar.itch.io">Visit store ↗</a>
+      </div>
+    </div>
+    <div class="card">
+      <p class="card-icon">// GitHub</p>
+      <h3>Open-source</h3>
+      <p>Source code for the projects I've made public.</p>
+      <div class="card-links">
+        <a href="https://github.com/AdamAlNajar">Browse repos ↗</a>
+      </div>
+    </div>
+    <div class="card">
+      <p class="card-icon">// YouTube</p>
+      <h3>Channel</h3>
+      <p>Subscribe if you want :) — the live counter is below.</p>
+      <iframe height="80" width="400" loading="lazy" frameborder="0" src="https://livecounts.io/embed/youtube-live-subscriber-counter/UCH_CmSlMgXpPpD2WhwrCwgw" style="border: 0; width: 100%; max-width: 400px; height: 80px; margin-top: 0.5rem;" title="YouTube live subscriber count"></iframe>
+    </div>
+  </div>
+</div>

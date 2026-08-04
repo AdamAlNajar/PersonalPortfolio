@@ -1,7 +1,9 @@
 ---
 layout: layout.njk
-title: Adam Al Najar Apps Child Safety Standards Notice
+title: Child Safety Standards Notice
 permalink: /csam-notice/
+description: DARMed child safety standards and CSAM reporting notice.
+body_class: legal-page
 ---
 
 # DARMed Child Safety Standards

@@ -1,7 +1,9 @@
 ---
 layout: layout.njk
-title: Privacy policy
+title: Privacy Policy
 permalink: /privacy-policy/
+description: Privacy policy for Adam Al Najar's mobile applications.
+body_class: legal-page
 ---
 
 # Privacy Policy for Adam Al Najar Apps

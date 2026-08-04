@@ -4,51 +4,126 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Projects | Adam Al Najar</title>
+  <meta name="description" content="Open-source projects by Adam Al Najar — games, apps, and tools.">
+  <meta name="theme-color" content="#0b0d11">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Adam Al Najar">
+  <meta property="og:title" content="Projects | Adam Al Najar">
+  <meta property="og:description" content="Open-source projects by Adam Al Najar — games, apps, and tools.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%230b0d11'/%3E%3Crect x='6' y='6' width='12' height='12' fill='%23ff4d24'/%3E%3Crect x='20' y='6' width='6' height='6' fill='%23e8e6df'/%3E%3Crect x='20' y='20' width='6' height='6' fill='%23ff4d24'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/styles.css">
+  <noscript><style>.reveal { opacity: 1; transform: none; }</style></noscript>
 </head>
 <body class="">
-  <header>
-    <nav>
-      <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/about/">About</a></li>
-        <li><a href="/projects/">Projects</a></li>
-        <li><a href="/services/">Services</a></li>
-        <li><a href="/contact/">Contact</a></li>
-	<li><a href="/privacy-policy/">Privacy Policy</a></li>
-      </ul>
-    </nav>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="/" aria-label="Adam Al Najar — home">
+        <span class="brand-mark" aria-hidden="true">A</span>
+        <span>ADAM<span class="brand-dim">.AL_NAJAR</span></span>
+      </a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <ul>
+          <li><a href="/" ><span class="nav-num">01</span>Home</a></li>
+          <li><a href="/about/" ><span class="nav-num">02</span>About</a></li>
+          <li><a href="/projects/" aria-current="page"><span class="nav-num">03</span>Projects</a></li>
+          <li><a href="/services/" ><span class="nav-num">04</span>Services</a></li>
+          <li><a href="/contact/" ><span class="nav-num">05</span>Contact</a></li>
+        </ul>
+      </nav>
+    </div>
   </header>
 
-  <main>
-    <div>
-      <h1>My Projects</h1>
-<h2><a href="https://github.com/AdamAlNajar/cats">Cats</a></h2>
-<ul>
-<li><strong>Description</strong>: A Short game about cats.</li>
-<li><strong>Technologies</strong>: HaxeFlixel, Osmo.</li>
-<li><strong>Link</strong>: <a href="https://adamalnajar.itch.io/cats">Project Website</a></li>
-</ul>
-<h2><a href="https://github.com/AdamAlNajar/APaint">APaint</a></h2>
-<ul>
-<li><strong>Description</strong>: A Painting app like Krita.</li>
-<li><strong>Technologies</strong>: Java, Java Swing.</li>
-<li><strong>Link</strong>: <a href="https://github.com/AdamAlNajar/APaint">Project Website</a></li>
-</ul>
-<h2><a href="https://github.com/AdamAlNajar/HIRecorder">Screen/Audio Recorder</a></h2>
-<ul>
-<li><strong>Description</strong>: A Simple Screen and audio Recorder (Not longer supported).</li>
-<li><strong>Technologies</strong>: HTML,CSS,JS .</li>
-<li><strong>Link</strong>: <a href="https://github.com/AdamAlNajar/HIRecorder">Project Website</a></li>
-</ul>
-<hr>
-<p>These are the Open-Source projects that i have created, There are more Paid Games/Websites that i cannot display. Thank you for your understanding.</p>
+  <main id="main" class="site-main">
+    <div class="container">
+  <p class="section-kicker">// Projects</p>
+  <h1>My Projects</h1>
+  <p class="section-note">Open-source work I've shipped. I also have paid games and client sites that aren't public — happy to talk about those if you're curious.</p>
+  <div class="grid reveal">
+    <article class="card">
+      <div class="card-head">
+        <h3>Cola Battlegrounds</h3>
+        <span class="card-tag">Published</span>
+      </div>
+      <p>Like Redmatch 2, but cola edition — a fast-paced Cola vs Pepsi battle royale shooter. Three maps, power-ups, free-for-all and team deathmatch. Built for Windows and Linux.</p>
+      <ul class="tags">
+        <li>Shooter</li>
+        <li>Battle Royale</li>
+        <li>Windows / Linux</li>
+      </ul>
+      <div class="card-links">
+        <a href="https://adamalnajar.itch.io/cola-battlegrounds">Play on itch.io ↗</a>
+      </div>
+    </article>
+    <!-- Cats -->
+    <article class="card">
+      <div class="card-head">
+        <h3>Cats</h3>
+        <span class="card-tag">Published</span>
+      </div>
+      <p>A short arcade game about cats — my current active project, built with HaxeFlixel and Osmo.</p>
+      <ul class="tags">
+        <li>HaxeFlixel</li>
+        <li>Osmo</li>
+      </ul>
+      <div class="card-links">
+        <a href="https://github.com/AdamAlNajar/cats">GitHub ↗</a>
+        <a href="https://adamalnajar.itch.io/cats">Play ↗</a>
+      </div>
+    </article>
+    <!-- APaint -->
+    <article class="card">
+      <div class="card-head">
+        <h3>APaint</h3>
+        <span class="card-tag">Tool</span>
+      </div>
+      <p>A painting app built in the spirit of Krita, written with Java and Java Swing.</p>
+      <ul class="tags">
+        <li>Java</li>
+        <li>Java Swing</li>
+      </ul>
+      <div class="card-links">
+        <a href="https://github.com/AdamAlNajar/APaint">GitHub ↗</a>
+      </div>
+    </article>
+    <!-- Screen/Audio Recorder -->
+    <article class="card">
+      <div class="card-head">
+        <h3>Screen / Audio Recorder</h3>
+        <span class="card-tag">Archived</span>
+      </div>
+      <p>A simple screen and audio recorder for the browser. No longer maintained.</p>
+      <ul class="tags">
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+      </ul>
+      <div class="card-links">
+        <a href="https://github.com/AdamAlNajar/HIRecorder">GitHub ↗</a>
+      </div>
+    </article>
+  </div>
+</div>
 
-    </div>
   </main>
 
-  <footer>
-    <p>&copy; 2024 Adam Al Najar. All Rights Reserved.</p>
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>© <span id="year">2026</span> Adam Al Najar — game developer in the UAE</p>
+      <div class="footer-links">
+        <a href="https://github.com/AdamAlNajar">GitHub</a>
+        <a href="https://adamalnajar.itch.io">itch.io</a>
+        <a href="mailto:adam.alnajar@yahoo.com">Email</a>
+        <a href="/privacy-policy/">Privacy</a>
+        <a href="/csam-notice/">Child safety</a>
+      </div>
+    </div>
   </footer>
+
+  <script src="/assets/script.js" defer></script>
 </body>
 </html>

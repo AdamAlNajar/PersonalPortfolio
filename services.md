@@ -2,45 +2,67 @@
 layout: layout.njk
 title: Services
 permalink: /services/
+description: Services by Adam Al Najar — game development, frontend web, PCB design, and Flutter app development.
 ---
+<div class="container">
+  <p class="section-kicker">// Services</p>
+  <h1>My Services</h1>
 
-# My Services
+  <p>Things I can build for you, end to end — from the first sketch to something shipped and working.</p>
 
-## Game Creation
-I can bring your ideas to life with custom-built games that captivate and engage. From mobile games to VR experiences, I ensure that your game is not only fun but functional. My game development services include:
+  <div class="grid reveal">
+    <div class="card">
+      <p class="card-icon">// 01 — Game creation</p>
+      <h3>Game Development</h3>
+      <p>I design and build games from concept to playable product — mobile, desktop, or VR. Fun and functional are both non-negotiable.</p>
+      <ul>
+        <li>Game design tailored to your vision</li>
+        <li>Interactive, scalable game development</li>
+        <li>Art &amp; animation for an immersive feel</li>
+        <li>Thorough testing &amp; QA</li>
+        <li>Launch support and post-launch fixes</li>
+      </ul>
+    </div>
+    <!-- Frontend -->
+    <div class="card">
+      <p class="card-icon">// 02 — Frontend web</p>
+      <h3>Website Development</h3>
+      <p>Fast, responsive websites that look right on every screen and load quickly. Built to help your project stand out online.</p>
+      <ul>
+        <li>UI/UX design with the user in mind</li>
+        <li>Responsive layouts for all devices</li>
+        <li>Performance optimisation</li>
+        <li>SEO-friendly structure</li>
+      </ul>
+    </div>
+    <!-- Hardware -->
+    <div class="card">
+      <p class="card-icon">// 03 — Hardware</p>
+      <h3>PCB Design</h3>
+      <p>Custom PCB design for your electronics projects — from prototype to production-ready boards, optimised and well-routed.</p>
+      <ul>
+        <li>Schematic design, clean and well-structured</li>
+        <li>Board layout tuned for reliability</li>
+        <li>Component selection (cost / efficiency / availability)</li>
+        <li>Prototyping &amp; design verification</li>
+        <li>Fabrication and assembly support</li>
+      </ul>
+    </div>
+    <!-- Full stack -->
+    <div class="card">
+      <p class="card-icon">// 04 — Full stack apps</p>
+      <h3>App Development</h3>
+      <p>Cross-platform apps built with Flutter and Dart, backed by Firebase — from design to Play Store, backend included.</p>
+      <ul>
+        <li>Flutter / Dart cross-platform development</li>
+        <li>Firebase backends: auth, database, analytics</li>
+        <li>API design &amp; integration</li>
+        <li>Play Store publishing &amp; maintenance</li>
+      </ul>
+    </div>
+  </div>
 
-- **Game Design**: Tailored concepts that match your vision.
-- **Game Development**: Creating interactive, scalable, and dynamic games.
-- **Art & Animation**: High-quality visuals and animations for an immersive experience.
-- **Testing & QA**: Thorough testing to ensure smooth performance.
-- **Launch & Support**: Seamless launch with post-launch support.
-
-## Frontend Website Development
-I offer frontend development that makes your website visually appealing and user-friendly. With modern design techniques and responsive layouts, I can help your brand stand out online. My frontend web development services include:
-
-- **UI/UX Design**: Creating intuitive user interfaces with an emphasis on user experience.
-- **Responsive Design**: Websites that work on all devices and screen sizes.
-- **Performance Optimization**: Ensuring fast loading times and smooth user interactions.
-- **SEO Optimization**: Helping your website rank better on search engines.\
-
-## PCB Design
-I provide **custom PCB design services** to help bring your electronic projects to life. Whether you're developing a prototype or a full-scale production board, I ensure **optimized, efficient, and well-routed** designs tailored to your needs. My PCB design services include:
-
-- **Schematic Design**: Creating clear, well-structured circuit diagrams.  
-- **PCB Layout**: Optimizing board layout for performance, reliability, and manufacturability.  
-- **Component Selection**: Choosing the best components for cost, efficiency, and availability.  
-- **Prototyping & Testing**: Verifying designs before full-scale production.  
-- **Manufacturing Support**: Assisting with PCB fabrication and assembly
-
-## Full Stack App Development
-I can bring your ideas to life with custom-built games that captivate and engage. From mobile games to VR experiences, I ensure that your game is not only fun but functional. My game development services include:
-
-- **Game Design**: Tailored concepts that match your vision.
-- **Game Development**: Creating interactive, scalable, and dynamic games.
-- **Art & Animation**: High-quality visuals and animations for an immersive experience.
-- **Testing & QA**: Thorough testing to ensure smooth performance.
-- **Launch & Support**: Seamless launch with post-launch support.
-
-
----
-For Inquiry, Please Contact me
+  <div class="contact-note reveal">
+    <p>Have an idea? I'm open to commissions and collaborations — <a href="/contact/">get in touch</a> and we'll talk it through.</p>
+  </div>
+</div>

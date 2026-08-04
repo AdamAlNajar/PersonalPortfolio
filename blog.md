@@ -2,29 +2,31 @@
 layout: layout.njk
 title: Blog
 permalink: /blog/
+description: Notes and updates from Adam Al Najar — what I'm building and learning.
 ---
-# My Blog
+<div class="container">
+  <p class="section-kicker">// Blog</p>
+  <h1>My Blog</h1>
 
-<details>
-  <summary style="font-size: 1.5em; font-weight: bold; cursor: pointer; margin: 1em 0 0.5em 0; color: #2563eb;">
-    #1 - The first post
-  </summary>
-  <div style="padding: 10px 15px; border-left: 3px solid #2563eb; margin-bottom: 1.5em; background-color: #f8fafc;">
-    <p><em>Published on June 30, 2026 | Category: App Development</em></p>
-    
-    <h3>Hello Reader...</h3>
-    <p>I have currently been working on many things, while enjoying my summer. What i have been doing is summarised in the list below</p>
-    <ul>
-        <li>Programming Apps in flutter</li>
-        <li>Developing Games...</li>
-        <li>Swimming and Enjoying my life...</li>
-    </ul>
-    <p>I will keep you updated on the development of my apps and games when ever i have the chance to do so. Thank you.</p>
-    <p>PSI reccomend all students to take this time off to enjoy after the exam seires</p>
-  </div>
-</details>
+  <details class="acc">
+    <summary>#1 — The first post</summary>
+    <div class="acc-body">
+      <div class="blog-post">
+        <p class="blog-meta">Published June 30, 2026 · Category: App development</p>
+        <h3>Hello Reader...</h3>
+        <p>I've been working on a lot of things while enjoying my summer. Here's what I've been up to:</p>
+        <ul>
+          <li>Programming apps in Flutter</li>
+          <li>Developing games...</li>
+          <li>Swimming and enjoying life...</li>
+        </ul>
+        <p>I'll keep you updated on the development of my apps and games whenever I get the chance. Thanks for reading.</p>
+        <p>PS — I'd recommend every student take this time off to enjoy themselves after the exam series.</p>
+      </div>
+    </div>
+  </details>
 
+  <hr>
 
----
-
-Welcome to my blog! Click on any article title above to read the full post right here on this page. Thank you for reading.
+  <p class="section-note">Welcome to my blog — click a post title to read it right here on this page. More posts coming soon.</p>
+</div>
